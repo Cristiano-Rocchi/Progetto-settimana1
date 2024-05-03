@@ -64,15 +64,22 @@ main h1{
 }
 #art2 h1{
     padding-top: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: 0.8em;
 }
 .card{
-    height: 15em;
+    
     padding-top: 1em;
+    
     
 }
 .card img{
     border-radius: 50% 50% 50% 50%;
+    width: 50%;
 }
+#art3 h1{
+    padding-top:  1.5em;
+    padding-bottom: 0.8em;
+}
+
 
 
