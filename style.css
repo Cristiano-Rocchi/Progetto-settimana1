@@ -124,10 +124,13 @@ main h1{
     border-top: none;
     border-width: 1px;
 }
-#art5 h1{
+#art5 .card h1{
     padding-top: 20px;
     padding-bottom: 10px;
 }
-#art5 p{
+#art5 .card p{
     padding-bottom: 30px;
+}
+#art5 article img{
+    padding-top: 30px;
 }
