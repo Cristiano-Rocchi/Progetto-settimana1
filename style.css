@@ -134,3 +134,7 @@ main h1{
 #art5 article img{
     padding-top: 30px;
 }
+footer{
+    background-color:  rgb(141, 141, 214);
+    color: white;
+}
