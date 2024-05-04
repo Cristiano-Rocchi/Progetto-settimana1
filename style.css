@@ -135,6 +135,34 @@ main h1{
     padding-top: 30px;
 }
 footer{
-    background-color:  rgb(141, 141, 214);
+    background-color:  #25a2c3;
     color: white;
+    font-family: "Montserrat", sans-serif;
+}
+footer h2{
+    font-weight: bold;
+    padding: 30px 0 20px 0;
+  font-size: 30px;
+}
+#icon-ref p{
+    
+    padding: 3px;
+}
+#icon-ref a{
+    color: #c8e7f0;
+
+}
+#copyright{
+    border-top: solid;
+    border-color: #c8e7f0;
+    margin-top: 25px;
+    padding: 30px;
+    margin-left: 9em;
+    margin-right: 9em;
+    font-size: 13px;
+    color: #c8e7f0;
+    border-width: 1px;
+}
+#copyright a{
+    color: #c8e7f0;
 }
