@@ -120,53 +120,68 @@ form{
     color: white;
     height: 13em;
     margin-top: 3em;
+    padding-bottom: 3.5em;
+  padding-top: 2.5em;
 }
 #mid h2{
     font-weight: bold;
     padding-top: 30px;
     padding-bottom: 20px;
-    font-size: 35px;
+    font-size: 45px;
 }
 #mid p{
     font-style: italic;
     padding-bottom: 1em;
+    font-size: 25px;
 }
 #mid h3{
     font-size: 20px;
     padding-bottom: 10px;
 }
 #mid h4{
-    padding-top: 5px;
-    font-size: 10px;
+    font-size: 12px;
 }
-#art5 img{
-    width: 25em;
+
+#lower-main{
+    padding-top: 8em;
+  padding-bottom: 8em;
 }
-#art5{
-    padding: 40px 20px 40px 20px;
+
+#card1, #card2, #card3{
+    display: inline-block;
+}
+#card2{
+    padding-left: 3em;
+  padding-right: 3em;
 }
 .card{
     border: solid;
     border-color: lightgray;
-    margin: 0 29px 0 29px;
     border-radius: 0 0 5px 5px;
     border-top: none;
     border-width: 1px;
 }
-#art5 .card h1{
-    padding-top: 20px;
-    padding-bottom: 10px;
+.card h1{
+    padding-top: 1.5em;
+  font-size: 20px;
+  padding-bottom: 0.5em;
 }
-#art5 .card p{
-    padding-bottom: 30px;
+.card p{
+    font-size: 15px;
+    padding-bottom: 3em;
 }
-#art5 article img{
-    padding-top: 30px;
+#lower-main img{
+    height: 350px;
 }
 footer{
     background-color:  #25a2c3;
     color: white;
     font-family: "Montserrat", sans-serif;
+
+}
+#end{
+    display: inline-block;
+    text-align: left;
 }
 footer h2{
     font-weight: bold;
@@ -185,13 +200,15 @@ footer h2{
     border-top: solid;
     border-color: #c8e7f0;
     margin-top: 25px;
-    padding: 30px;
-    margin-left: 9em;
-    margin-right: 9em;
     font-size: 13px;
     color: #c8e7f0;
     border-width: 1px;
 }
 #copyright a{
     color: #c8e7f0;
+}
+#copyright p{
+    padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center
 }
